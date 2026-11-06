@@ -84,7 +84,7 @@ Les scripts `etape1` à `etape3` peuvent aussi être lancés seuls pour voir les
 | Réponses justes (10 questions) | … |
 | Réponses correctement sourcées | … |
 
-Corpus : 15 documents, 23 pages, 69 chunks indexés. Le détail et l'analyse des erreurs sont dans [`reponses.md`](reponses.md).
+Corpus : 15 documents, 23 pages, 69 chunks indexés. Le détail et l'analyse des erreurs sont dans [`reponses.md`](reponse.md).
 
 ## Limites connues
 
