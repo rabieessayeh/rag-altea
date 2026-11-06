@@ -1,0 +1,39 @@
+question,document_attendu,reponse,sources_fournies,note (juste/partielle/fausse),sources exactes (oui/non)
+Combien de jours de télétravail par semaine ?,teletravail.pdf,Chaque salarié éligible peut télétravailler jusqu’à **2 jours par semaine** [1].,teletravail.pdf p.1 | conges_absences.pdf p.1 | conges_absences.pdf p.1,,
+Comment réinitialiser mon mot de passe ?,mot_de_passe.txt,"Pour réinitialiser votre mot de passe :
+
+1. Accédez à la page de réinitialisation : cliquez sur le lien « Mot de passe oublié ? » depuis l’écran de connexion de votre ordinateur ou depuis le portail https://compte.altea‑services.example sur votre téléphone【1】.  
+2. Saisissez votre identifiant (prénom.nom)【1】.  
+3. Validez le code reçu par SMS sur votre téléphone professionnel ou dans l’application d’authentification【3】.  
+4. Choisissez un nouveau mot de passe : il doit comporter au moins 12 caractères, incluant une majuscule, un chiffre et un caractère spécial, et ne pas reprendre l’un de vos 5 derniers mots de passe【3】.",mot_de_passe.txt p.1 | charte_informatique.pdf p.1 | mot_de_passe.txt p.1,,
+Comment poser un jour de congé ?,conges_absences.pdf,"Pour poser un jour de congé, il faut :
+
+1. Se connecter au portail RH **MonEspace** et se rendre dans la rubrique **« Mes absences »**, puis cliquer sur **« Nouvelle demande »** ; le salarié y choisit le type d’absence, indique les dates souhaitées et, s’il le désire, ajoute un commentaire [2].
+
+2. La demande est alors envoyée automatiquement au manager, qui doit la **valider ou la refuser sous 5 jours ouvrés** [2].
+
+3. Le salarié doit respecter le **délai de prévenance** : au moins **2 semaines à l’avance** pour une absence d’une journée (ou plus) [2].",conges_absences.pdf p.2 | conges_absences.pdf p.1 | teletravail.pdf p.1,,
+Quel est le plafond de remboursement d'un repas ?,notes_de_frais.pdf,"Le plafond de remboursement dépend du type de repas :
+
+- 20 € par repas pour un repas du soir en déplacement.  
+- 30 € par repas pour un repas d’affaires avec un client.  
+- 50 € par personne pour un repas d’affaires avec un client.  
+
+[2]",notes_de_frais.pdf p.2 | notes_de_frais.pdf p.1 | restauration.txt p.1,,
+Comment adhérer à la mutuelle ?,mutuelle.pdf,"L’adhésion à la mutuelle collective d’Altéa Services est obligatoire pour tous les salariés dès le premier jour de leur contrat de travail ; aucune démarche d’inscription n’est donc nécessaire, sauf si le salarié bénéficie d’une dispense prévue par la loi (par exemple, déjà couvert par la mutuelle du conjoint, en CDD de moins de 3 mois, ou bénéficiaire de la complémentaire santé solidaire) [3][2].",charte_informatique.pdf p.1 | mutuelle.pdf p.2 | mutuelle.pdf p.1,,
+Je n'arrive pas à me connecter au VPN : que faire ?,vpn.txt,"- Vérifiez d'abord que votre connexion internet fonctionne en ouvrant un site public. [1]  
+- Assurez‑vous que l’heure de votre ordinateur est correcte ; un décalage de plus de 5 minutes empêche l’authentification. [1]  
+- Si vous êtes sur un réseau public (hôtel, gare, etc.), le VPN peut être bloqué ; privilégiez la connexion de votre téléphone professionnel. [1]  
+- Ouvrez l’application **AltéaConnect**, cliquez sur « Se connecter », saisissez votre identifiant et votre mot de passe, puis validez la notification sur votre téléphone (authentification à deux facteurs). [2]  
+- Redémarrez votre ordinateur puis relancez **AltéaConnect**. [3]  
+- Si le message « Certificat expiré » apparaît, reconnectez votre ordinateur au réseau de l’entreprise (sur site ou en appelant le support). [3]  ",vpn.txt p.1 | vpn.txt p.1 | vpn.txt p.1,,
+Comment demander un nouvel ordinateur ?,demande_materiel.txt,"Pour demander un nouvel ordinateur, il faut :
+
+1. Se rendre sur le **portail Support IT**, rubrique « Demande de matériel » [1].  
+2. Dans le catalogue, choisir l’équipement « ordinateur de remplacement » (ou « ordinateur ») [2].  
+3. Indiquer la raison de la demande [2].  
+4. Faire valider la demande par votre manager [2].  
+5. Le support IT traitera ensuite la demande [2].",demande_materiel.txt p.1 | demande_materiel.txt p.1 | livret_accueil.pdf p.1,,
+J'ai reçu un e-mail suspect : que dois-je faire ?,securite_emails.txt,Ne cliquez sur aucun lien et n’ouvrez aucune pièce jointe. Utilisez le bouton « Signaler un hameçonnage » dans la barre de la messagerie : l’e‑mail est transmis à l’équipe sécurité puis supprimé de votre boîte. Ne le transférez pas à vos collègues. [3] [1],securite_emails.txt p.1 | securite_emails.txt p.1 | securite_emails.txt p.1,,
+À quelle heure ouvre le site de Lyon ?,horaires.txt,Le site de Lyon ouvre à 7 h 30 du lundi au vendredi. [1],horaires.txt p.1 | restauration.txt p.1 | demande_materiel.txt p.1,,
+A-t-on le droit de fumer dans les locaux ?,reglement_interieur.pdf,"Non, il est strictement interdit de fumer dans l’ensemble des locaux. [1]",reglement_interieur.pdf p.1 | reglement_interieur.pdf p.1 | charte_informatique.pdf p.1,,
